@@ -1,5 +1,5 @@
-read.csv("C:\\Users\\hp\\Documents\\creditcard.csv") -> credit_card
-nrow(credit_card)
+read.csv("C:\\Users\\hp\\Documents\\bat cave\\course\\unit1\\project work\\credit fraud\\creditcard.csv") -> credit_card
+  nrow(credit_card)
 ncol(credit_card)
 str(credit_card)
 dim(credit_card)
